@@ -1,5 +1,5 @@
 # TimeLLM vs LSTM Benchmarking
-This project provides a rigorous comparative analysis between Large Language Models (LLMs) adapted for temporal data and traditional Long Short-Term Memory (LSTM) networks. By evaluating performance across predictive accuracy, computational efficiency, and architectural robustness, this research identifies the trade-offs between "foundation model" approaches and domain-specific recurrent neural networks.
+This project provides a rigorous comparative analysis between Large Language Models (LLMs) adapted for temporal data and traditional Long Short-Term Memory (LSTM) networks. By evaluating performance across predictive accuracy, computational efficiency and architectural robustness, this research identifies the trade-offs between "foundation model" approaches and domain-specific recurrent neural networks.
 
 ### 🧪 Core ObjectivesModel Implementation: 
 - Development of a high-performance LSTM baseline and a contemporary TimeLLM-based prototype.
