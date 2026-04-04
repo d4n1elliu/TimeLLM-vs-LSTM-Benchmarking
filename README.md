@@ -32,7 +32,7 @@ Model Implementation:
 - Hardware Target: Optimised for CUDA enabled GPUs to handle LLM inference overhead.
 
 ### 📊 Benchmarking Results
-The following table summarises the final performance metrics for both the TimeLLM-based (DistilBert) and LSTM prototypes on the test dataset.
+The following table summarises the final performance metrics for both the TimeLLM based (DistilBert) and LSTM prototypes on the test dataset.
 
 | Metric | LLM Based Prototype (DistilBert) | LSTM Prototype |
 | :--- | :--- | :--- |
